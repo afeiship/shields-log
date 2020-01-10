@@ -1,0 +1,31 @@
+{
+  "name": "shields-log",
+  "version": "1.0.0",
+  "description": "Output logger for `https://shields.io/` style.",
+  "homepage": "https://github.com/afeiship/shields-log",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@feizheng/next-nice-comments": "^1.0.0",
+    "del": "^5.1.0",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-header": "^2.0.7",
+    "gulp-load-plugins": "^2.0.1",
+    "gulp-size": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jest": "^24.8.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

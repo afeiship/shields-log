@@ -1,4 +1,4 @@
-var colors = {
+var COLORS = {
   brightgreen: '#52c435',
   green: '#97c232',
   yellowgreen: '#a1a237',
@@ -16,10 +16,9 @@ var colors = {
 };
 
 function slog(inOptions) {
-  var title = inOptions.title,
-    content = inOptions.content,
-    color = colors[inOptions.color] || inOptions.color;
-
+  var title = inOptions.title;
+  var content = inOptions.content;
+  var color = COLORS[inOptions.color] || inOptions.color || COLORS.blue;
   var format = [
     '%c '.concat(title, ' %c ').concat(content, ' '),
     'padding: 1px; border-radius: 3px 0 0 3px; color: #fff; background: '.concat('#606060', ';'),
@@ -34,7 +33,7 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
   if (typeof define === 'function' && define.amd) {
     define([], function() {
-      return nx;
+      return slog;
     });
   } else {
     window.slog = slog;

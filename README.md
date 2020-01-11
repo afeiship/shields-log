@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://afeiship.github.io/shields-log">
-    <img width="880" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gasmxijanhj311a0kwtdi.jpg">
+    <img width="880" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gasn0690pcj311a0kwq7q.jpg">
   </a>
 </p>
 

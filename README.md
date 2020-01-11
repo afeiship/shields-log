@@ -9,7 +9,7 @@
 
 ## installation
 ```shell
-npm install -S @feizheng/shields-log 
+npm install -S shields-log 
 ```
 
 ## usage

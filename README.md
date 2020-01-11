@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://afeiship.github.io/shields-log">
+    <img width="880" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gasmxijanhj311a0kwtdi.jpg">
+  </a>
+</p>
+
 # shields-log
 > Output logger for `https://shields.io/` style.
 
@@ -8,7 +14,9 @@ npm install -S @feizheng/shields-log
 
 ## usage
 ```js
-// codes
+const slog = require('shields-log');
+
+slog({ title: 'Platform', content: 'MacOs' });
 ```
 
 ## resources

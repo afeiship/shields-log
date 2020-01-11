@@ -3,7 +3,7 @@ const app = express();
 const portNumber = 3000;
 const sourceDir = 'src';
 
-app.use(express.static("__tests__"));
+app.use(express.static("docs"));
 app.use(express.static("src"));
 
 app.listen(portNumber, () => {

@@ -1,6 +1,6 @@
 {
   "name": "shields-log",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Output logger for `https://shields.io/` style.",
   "homepage": "https://github.com/afeiship/shields-log",
   "author": {

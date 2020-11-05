@@ -49,14 +49,14 @@ slog({ title: 'Platform', content: 'MacOs' });
 ## license
 Code released under [the MIT license](https://github.com/afeiship/shields-log/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/shields-log
-[version-url]: https://npmjs.org/package/@feizheng/shields-log
+[version-image]: https://img.shields.io/npm/v/shields-log
+[version-url]: https://npmjs.org/package/shields-log
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/shields-log
+[license-image]: https://img.shields.io/npm/l/shields-log
 [license-url]: https://github.com/afeiship/shields-log/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/shields-log
+[size-image]: https://img.shields.io/bundlephobia/minzip/shields-log
 [size-url]: https://github.com/afeiship/shields-log/blob/master/dist/shields-log.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/shields-log
-[download-url]: https://www.npmjs.com/package/@feizheng/shields-log
+[download-image]: https://img.shields.io/npm/dm/shields-log
+[download-url]: https://www.npmjs.com/package/shields-log

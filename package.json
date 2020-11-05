@@ -36,6 +36,8 @@
     "slog",
     "badge",
     "npm",
-    "tag"
+    "tag",
+    "color",
+    "colorful"
   ]
 }

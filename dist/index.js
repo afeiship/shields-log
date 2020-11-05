@@ -1,7 +1,7 @@
 /*!
  * name: shields-log
  * url: https://github.com/afeiship/shields-log
- * version: 1.0.2
+ * version: 1.0.3
  * license: MIT
  */
 

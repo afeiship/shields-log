@@ -6,8 +6,10 @@ test
 __tests__
 src
 build
+docs
 gulpfile.js
 
 .editorconfig
 .npmrc
-.prettoerrc
+.prettierrc
+server.js
